@@ -25,7 +25,7 @@ products.forEach((product) => {
           </div>
 
           <div class="product-name limit-text-to-2-lines">
-            Black and Gray Athletic Cotton Socks - 6 Pairs
+            ${product.name}
           </div>
 
           <div class="product-rating-container">
